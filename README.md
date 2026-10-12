@@ -4,7 +4,9 @@ A storefront for Indian creators who sell coaching, programs and guides. Buyers 
 
 **Live:** https://www.creators-store.site
 
-![Creators Store home page](screenshots/home.png)
+[![Watch the 80-second walkthrough, with voiceover](media/walkthrough-poster.jpg)](https://anuj1102001.github.io/creators-store-showcase/watch.html)
+
+**[▶ Watch the walkthrough](https://anuj1102001.github.io/creators-store-showcase/watch.html)** (80 seconds, narrated with a synthetic voice): sign up, build a store, add a product, take a test payment, see the order and analytics. Recorded on a local build with demo data and a test payment gateway.
 
 ## Why it's different
 
