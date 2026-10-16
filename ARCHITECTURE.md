@@ -10,7 +10,7 @@ src/
     (auth)/               login, signup, forgot-password, reset-password
     onboarding/           first-run store builder
     dashboard/            creator app: overview, store, products, orders, customers, analytics,
-                          growth (AI), marketing, settings (account, billing, payments, payouts)
+                          growth (AI, preview until a key is set), marketing, settings (account, billing, payments, payouts)
     admin/                platform admin panel
     [handle]/             public storefront  →  /{username}
     [handle]/[product]/   product page + checkout
